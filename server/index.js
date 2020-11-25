@@ -18,7 +18,8 @@ admin.initializeApp({
 
 const app = express();
 
-const port = 3000;
+const PORT = 8080;
+const HOST = '0.0.0.0';
 
 const storage = multer.diskStorage({
     destination: (req, file, cb) => {
@@ -80,4 +81,4 @@ app.post('/upload', upload.single('file'), (req, res, next) => {
     }
 });
 
-app.listen(port, () => console.log(`Hello world app listening on port ${port}!`));
+app.listen(HOST,PORT, () => console.log(`Hello world app listening on port ${port}!`));
