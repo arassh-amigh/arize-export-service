@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "tripleearplatform",
+  "private_key_id": "29b6655538c7a5750f8fab47ddc2fb63036dc44d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQD60o1bQKxfyD0N\nn6pqDZVOSWUwd/L+ClS6Fmim4YhCm4NCOZjvQq0PEqnDC4Cib+02M8H3vNjfjMuy\n44r/rLKTu/tUKzb714QzKztoxXA34jJpoFBF1ELlwIbjoL7OPbEZ6Z+JJjX6+MVZ\nEfwKgLOxnSyK4fifR5+1baHScwUFol5vZKVpQe4rVSOvqFlZtQnU4Fj03PacVtIq\nnKhGEHEya+yS7t+tQSskpEhP7qVENs/6muSone3dkvj53PAuckqber360EcRRtMg\nneAMM0E8cbLHhm5DyHrJJudyuzOzIRG/Ji0gA+NMNJBxnaLnPAB7zKXewKL76wDu\n7z+lmKzbAgMBAAECggEAGTie2jQwoRkDeqE5g5yGDO84a51EI+NqDaQ/Nbir+Pam\nRjyAcl6kBEX+KAy6DJtwoOincn/c1u3TddOHoJn/Avf+F8KYrs5HDtYkDS79T8FB\nDHoAWGU1rOClL7J0PUzayB5D2oirGOd3ALPcQjoa15tUZUq/s1SCbL3vbbf/I0ez\nfJGzrSmR/DJ900tQaAhkVjAxeyhbujn/1l8NFrmCKZTv/IdM3Ad6xNOkb5kEhb2L\nrfMqlHfelaoProjZnrfjeueFUUTzaLlPTKrQMoevtLD6YKOer0H4s//OmnOkGImi\nT7v4J5wlNO+VdiEQGYxfdZIvLqDWJAFT4nVVQPSdgQKBgQD/9NjYmrlL3R243rV8\nE6Qv9pTPQ+4QCZterm8M1qHRiVWGS/Y7k/xuxRCJdoS16wEtstHcy0DGI1LyF+0Y\nNiQ2sMtLud89NGchmCTtiEd5+iKYxSSb7YFfyS76DSvtlF7qtRwrz/OEcTj8J/yA\nEVB0M5mafFucXRv68gfN9yXBIQKBgQD63Xs95RgW2tK5wteHIxKfp0R7CERUQO5+\nRSL78HUxcuR1moT6rN94YTFWJeKqe4whGIPJBl5bfVA2aGdUh4NeKTCQchxxXPZh\nCyYDye1ml/pzrrTTFHImMFoH4VDdYeVkcQy6jOLjW8SOjKiV9B/fzgBb68GHZ0dM\nE2NMdH6iewKBgAeApM6Mknvfylw94vH1HW3ue2Qr6JF9xpka4dRtgibDMMeT+G68\noryYeCifWbp/XfR59l7Tcl2ccXT5MJDyHVOhEQRyOVHw9Ejuzb5MrVOs+lCiDrWn\nW5B0NDVOJ4h6PeIBVwcNvGSYcQQrI+KZH1OYo5r8pC7MJ+LOL15hLTEhAoGAZbea\nOf2DJ/kwCkwbcdrhuURsOuqeMf9l9GL6DWdxTUyFn724f5/KuJfIFmMkJfYUWnMD\nNGZVqgkElhr9EsQjmvFelKMAL2L/L1gC4PRmQvwKfA9xmEipBB0E1D8it7Dy/yfr\nflSTxpY1+4rC7JJgvjFb6emMvec9fHY8BAsUMbMCgYBF6wYgDzOQw+/EYTzEg6w5\n7UhMV7OriTbgK5r/pzKPVbdjiOu4W+tre+H2F/ANOvqLU0suB5TsC+IQGdGGvGI3\nsdFAT9WkULUADmL3DlkacZ0B3n6nSUzV1eaQQvnDxmxrj67KM91fQGrlgRe18OD0\nf/+8kEMNLOWN/Zt2SdKHmA==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-yk40a@tripleearplatform.iam.gserviceaccount.com",
+  "client_id": "104280582661104024764",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-yk40a%40tripleearplatform.iam.gserviceaccount.com"
+}

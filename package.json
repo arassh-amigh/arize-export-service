@@ -4,10 +4,14 @@
   "description": "",
   "main": "./server/index.js",
   "scripts": {
+    "start": "docker image build . -t injokerash/arize-export-service && docker run -d --name app injokerash/arize-export-service && docker exec -it app /bin/bash",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "express": "*"
+    "express": "*",
+    "multer": "",
+    "firebase": "^7.22.0",
+    "firebase-admin": "^9.1.1"
   },
   "author": "",
   "license": "ISC"
